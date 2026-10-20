@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cygnixlabs-cmd.github.io/cygnix-seo-skills/sitemap.xml

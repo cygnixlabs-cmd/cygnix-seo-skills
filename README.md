@@ -27,6 +27,10 @@ List them without installing: `npx skills add cygnixlabs-cmd/cygnix-seo-skills -
 
 Manual install for Claude Code: copy a folder from `skills/` into `~/.claude/skills/` (personal) or `.claude/skills/` (project).
 
+## Docs and tool directory
+
+Browse every Cygnix Labs tool, with real sample outputs, prices and MCP setup: **[cygnixlabs-cmd.github.io/cygnix-seo-skills](https://cygnixlabs-cmd.github.io/cygnix-seo-skills/)** ([llms.txt](https://cygnixlabs-cmd.github.io/cygnix-seo-skills/llms.txt)).
+
 ## Use
 
 Ask in plain language; the agent picks the skill:
