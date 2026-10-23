@@ -1,6 +1,6 @@
 # Cygnix Labs
 
-> SEO and AI-search (GEO/AEO) tools for AI agents: free SKILL.md agent skills, a free MCP server (cygnix-seo-mcp), pay-per-event Apify actors (username cygnix_labs, callable via https://mcp.apify.com), and full skills on Agensi. Updated 2026-10-22.
+> SEO and AI-search (GEO/AEO) tools for AI agents: free SKILL.md agent skills, a free MCP server (cygnix-seo-mcp), pay-per-event Apify actors (username cygnix_labs, callable via https://mcp.apify.com), and full skills on Agensi. Updated 2026-10-23.
 
 ## Free
 
@@ -17,7 +17,7 @@
 - [SERP Intent Mapper: Keyword Search Intent Classifier](https://cygnixlabs-cmd.github.io/cygnix-seo-skills/apify/serp-intent-mapper.html): Bulk search intent classifier for keyword lists. Labels each keyword informational, commercial, transactional or navigational (+ local, question flags) and names the page type to build. English… Price: $0.0005 per keyword classified.
 - [Internal Link Audit: Orphan Pages, Broken Links & Redirects](https://cygnixlabs-cmd.github.io/cygnix-seo-skills/apify/internal-link-audit.html): Internal link audit from your sitemap: orphan pages, weak and broken internal links, internal links to redirects, redirected or noindex sitemap URLs, click depth and anchor text, with a fix per page.… Price: $0.002 per page audited.
 - [Tech Stack Detector & Pixel Checker: CMS, GA4, GTM, Meta Pixel](https://cygnixlabs-cmd.github.io/cygnix-seo-skills/apify/website-tech-stack-detector.html): Tech stack detector, pixel checker and BuiltWith / Wappalyzer alternative for lead lists. Paste domains or emails; get CMS, Shopify, GA4, GTM tags, Meta/TikTok/LinkedIn pixels, tracking IDs, consent… Price: $0.0015 per domain analyzed.
-- [Website Email Scraper & Contact Finder: Phones & Socials](https://cygnixlabs-cmd.github.io/cygnix-seo-skills/apify/outreach-contact-finder.html): Website email scraper, contact finder and contact details scraper for outreach and lead enrichment. Paste domains or URLs; get emails, phones (incl. WhatsApp), contact/impressum pages and LinkedIn… Price: $0.004 per domain with contacts.
+- [Email Scraper & Contact Details Scraper: Phones, Socials](https://cygnixlabs-cmd.github.io/cygnix-seo-skills/apify/outreach-contact-finder.html): Email scraper and contact details scraper for websites. Paste domains or URLs (e.g. Google Maps leads) and get emails, phone numbers (incl. WhatsApp), contact/impressum pages and social links… Price: $0.004 per domain with contacts.
 - [Best Time to Post: Instagram, TikTok, YouTube & LinkedIn](https://cygnixlabs-cmd.github.io/cygnix-seo-skills/apify/social-best-time-to-post.html): Find the best time to post on Instagram, TikTok, YouTube and LinkedIn from real post data or your analytics CSV export: weekday x hour heatmap in your time zone, engagement rate, best format, caption… Price: $0.03 per account report.
 - [Hashtag Generator & Finder: Instagram & TikTok Hashtag Research](https://cygnixlabs-cmd.github.io/cygnix-seo-skills/apify/hashtag-research-strategy.html): Hashtag generator, hashtag finder and hashtag research for Instagram and TikTok from real data: related hashtags creators actually pair with your seed, real post and view counts, broad/mid/niche… Price: $0.03 per seed hashtag report.
 - [YouTube Channel Analyzer: Analytics & Competitor Analysis](https://cygnixlabs-cmd.github.io/cygnix-seo-skills/apify/youtube-channel-analyzer.html): YouTube channel analyzer for creators and marketers: subscribers, views, upload cadence, best upload day and hour, outlier videos vs channel median, winning title patterns and topics, engagement… Price: $0.025 per channel report.
@@ -28,6 +28,8 @@
 - [SEO, GEO and AEO audit actors on Apify compared](https://cygnixlabs-cmd.github.io/cygnix-seo-skills/compare/seo-geo-audit-actors.html): price, 30-day users and ratings from the public Store API
 - [llms.txt checkers and AI crawler (robots.txt) audit actors on Apify, compared](https://cygnixlabs-cmd.github.io/cygnix-seo-skills/compare/llms-txt-checkers.html): Data comparison of Apify Store actors that check or generate llms.txt and AI crawler rules (GPTBot, ClaudeBot, PerplexityBot): price, 30-day users and ratings.
 - [Keyword cannibalization and Google Search Console analysis actors on Apify, compared](https://cygnixlabs-cmd.github.io/cygnix-seo-skills/compare/keyword-cannibalization-tools.html): Data comparison of Apify Store actors for keyword cannibalization, Search Console analysis and content decay: price, 30-day users and ratings.
+- [Keyword clustering and content brief actors on Apify, compared](https://cygnixlabs-cmd.github.io/cygnix-seo-skills/compare/keyword-clustering-tools.html): Data comparison of Apify Store actors for keyword clustering, keyword grouping and SEO content briefs: price, 30-day users and ratings.
+- [Internal link, orphan page and broken link audit actors on Apify, compared](https://cygnixlabs-cmd.github.io/cygnix-seo-skills/compare/internal-link-audit-tools.html): Data comparison of Apify Store actors for internal linking audits, orphan pages and broken link checks: price, 30-day users and ratings.
 
 ## Agensi skills (SEO and AI search)
 
